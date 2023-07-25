@@ -1,21 +1,22 @@
 # Full Stack Open 2023
 
-<nav style="text-align: center;">
-    <style>
-        nav a {
-            margin: 10%;
-            font-size: 1.2em
-        }
-    </style>
-    <a href="../part_0/README">PREV</a>
-    <a href="../README">HOME</a>
-    <a href=""><s>NEXT</s></a>
-</nav>
-
 ## Part 1: Introduction to React
+
+<p align="center">
+    <a href="../part_0/README.md"> | &lt;&lt;&lt; PREV | </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="../README.md"> | HOME | </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <s><a href="#"> | NEXT &gt;&gt;&gt; | </a></s>
+</p>
+
+### Objective
 
 _COMING SOON_
 
+### Contents
+
+_COMING SOON_
 
 <!--
 

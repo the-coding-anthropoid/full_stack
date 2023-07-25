@@ -31,3 +31,5 @@ For full details visit [fullstackopen.com](https://fullstackopen.com/)
   * [0.6: New Note in SPA Diagram](/part_0/0.6-new_note_in_spa_diagram.md)
 * ### [Part 1: Introduction to React](/part_1/README.md)
   * _COMING SOON_
+
+---
