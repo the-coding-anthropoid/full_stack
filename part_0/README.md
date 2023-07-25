@@ -1,16 +1,10 @@
-<style>
- table {
-    width:100%;
- }
-</style>
-
 # Full Stack Open 2023
 
 <table style="width:100%">
     <tr>
-        <th>This</th>
-        <th>is a <th>
-        <th>test<th>
+        <th style="width:33%; text-align:center;">This</th>
+        <th>is a </th>
+        <th>test</th>
     </tr>
 </table>
 
