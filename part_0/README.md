@@ -1,15 +1,9 @@
 # Full Stack Open 2023
 
 <nav style="text-align: center;">
-    <style>
-        nav a {
-            margin: 10%;
-            font-size: 1.2em
-        }
-    </style>
-    <a href="../README">PREV</a>
-    <a href="/README">HOME</a>
-    <a href="../part_1/README.md">NEXT</a>
+    <a href="../README" style="margin: 0 10%">PREV</a>
+    <a href="/README" style="margin: 0 10%">HOME</a>
+    <a href="../part_1/README.md" style="margin: 0 10%">NEXT</a>
 </nav>
 
 ## Part 0: Fundamentals of Web Apps
