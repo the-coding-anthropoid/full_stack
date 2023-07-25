@@ -25,9 +25,9 @@ For full details visit [fullstackopen.com](https://fullstackopen.com/)
 
 ## Contents
 
-* ### [Part 0: Fundamentals of Web Aps](/part_0/README)
+* ### [Part 0: Fundamentals of Web Aps](/part_0/README.md)
   * [0.4: New Note Diagram](/part_0/0.4-new_note-diagram.md)
   * [0.5: SPA Diagram](/part_0/0.5-spa_diagram.md)
   * [0.6: New Note in SPA Diagram](/part_0/0.6-new_note_in_spa_diagram.md)
-* ### [Part 1: Introduction to React](/part_1/README)
+* ### [Part 1: Introduction to React](/part_1/README.md)
   * _COMING SOON_
