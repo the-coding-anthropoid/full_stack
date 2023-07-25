@@ -1,10 +1,21 @@
+<style>
+ table {
+    width:100%;
+ }
+</style>
+
 # Full Stack Open 2023
 
-<nav style="text-align: center;">
-    <a href="../README" style="margin: 0 10%">PREV</a>
-    <a href="/README" style="margin: 0 10%">HOME</a>
-    <a href="../part_1/README.md" style="margin: 0 10%">NEXT</a>
-</nav>
+<table style="width:100%">
+    <tr>
+        <th>This</th>
+        <th>is a <th>
+        <th>test<th>
+    </tr>
+</table>
+
+| [PREV](../README.md) | [HOME](../README.md)   | [NEXT](../part_1/README.md) |
+|:--------------------:|:----------------------:|:---------------------------:|
 
 ## Part 0: Fundamentals of Web Apps
 
