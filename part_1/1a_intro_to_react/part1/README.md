@@ -18,4 +18,4 @@ See [App.js](/part_1/1a_intro_to_react/part1/src/App.js)
 
 None.
 
-[| &lt;&lt;&lt; BACK |](../part_0/README.md)
+[| &lt;&lt;&lt; BACK |](../../../part_1/README.md)
