@@ -26,10 +26,14 @@ For full details visit [fullstackopen.com](https://fullstackopen.com/)
 ## Contents
 
 * ### [Part 0: Fundamentals of Web Aps](/part_0/README.md)
-  * [0.4: New Note Diagram](/part_0/0.4-new_note-diagram.md)
-  * [0.5: SPA Diagram](/part_0/0.5-spa_diagram.md)
-  * [0.6: New Note in SPA Diagram](/part_0/0.6-new_note_in_spa_diagram.md)
+    * [0.4: New Note Diagram](/part_0/0.4-new_note-diagram.md)
+    * [0.5: SPA Diagram](/part_0/0.5-spa_diagram.md)
+    * [0.6: New Note in SPA Diagram](/part_0/0.6-new_note_in_spa_diagram.md)
 * ### [Part 1: Introduction to React](/part_1/README.md)
+* #### 1a - Introduction to React 
+  * [1.1: Course Information, step 1](/part_1/1a_intro_to_react/1.1-course_info_step1/README.md)
+  * [1.2: Course Information, step 2](/part_1/1a_intro_to_react/1.2-course_info_step2/README.md)
+* #### 1b - JavaScript
   * _COMING SOON_
 
 ---

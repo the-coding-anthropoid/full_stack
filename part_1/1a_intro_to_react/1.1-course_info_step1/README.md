@@ -12,10 +12,10 @@
 
 #### SOLUTION:
 
-See [App.js](/part_1/1a_intro_to_react/part1/src/App.js)
+See [App.js](./src/App.js)
 
 #### NOTES:
 
-None.
+For my original solution I followed the methodology prescribed by [1.2](../1.2-course_info_step2/README.md); I have altered the methodology implemented in this section to conform to expectations.
 
 [| &lt;&lt;&lt; BACK |](../../../part_1/README.md)
