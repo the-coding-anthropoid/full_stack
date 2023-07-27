@@ -26,11 +26,3 @@
 #### 1b - JavaScript
 
 _COMING SOON_
-
-<!--
-Reading 1a  00:45
-1.1         00:35
-
-copying data, checking links, et al 01:00
-
--->
