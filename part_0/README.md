@@ -13,6 +13,7 @@
 ---
 
 ### Objective
+
 >   "[Going] through the principles of web development by examining an example application at https://studies.cs.helsinki.fi/exampleapp."
 
 

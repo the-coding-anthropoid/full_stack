@@ -10,25 +10,27 @@
     <s><a href="#"> | NEXT &gt;&gt;&gt; | </a></s>
 </p>
 
+---
+
 ### Objective
 
-_COMING SOON_
+>   Gain familiarity "with the React-library, [and use it] to write the code that runs in the browser. [Additionally,] look at some features of JavaScript that are important for understanding React.
 
 ### Contents
+
+#### 1a - Introduction to React
+
+* [1.1: Course Information, Step 1](/part_1/1a_intro_to_react/part1/README.md)
+* [1.2: Course Information, step 2]()
+
+#### 1b - JavaScript
 
 _COMING SOON_
 
 <!--
+Reading 1a  00:45
+1.1         00:35
 
->   "[Going] through the principles of web development by examining an example application at https://studies.cs.helsinki.fi/exampleapp."
+start README    10:41
 
-From the University of Helsinki, a thorough look at all aspects of modern development for the web, available in:
-
----
-
-## Contents
-
-* [0.4: New Note Diagram](0.4-new_note-diagram.md)
-* [0.5: SPA Diagram](0.5-spa_diagram.md)
-* [0.6: New Note in SPA Diagram](0.6-new_note_in_spa_diagram.md) 
 -->
