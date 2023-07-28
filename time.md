@@ -8,3 +8,8 @@
 | Ex 1.1 (now Ex 1.2)                       | 00:35 | 01:20 |
 | copying data, checking links, misc admin  | 01:00 | 01:45 |
 | Ex 1.1                                    | 00:05 | 01:50 |
+
+## Section: 1b - Javascript
+
+| Reading b                                 | 00:20 | 00:20 |
+| Refactor                                  | 00:20 | 00:40 |
