@@ -26,3 +26,4 @@
 #### 1b - JavaScript
 
 * [1.3: Course Information, Step 3](./1b_javascript/1.3-course_info_step3.md)
+* [1.4: Course Information, Step 4](./1b_javascript/1.4-course_info_step4.md)
