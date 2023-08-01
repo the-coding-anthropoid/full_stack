@@ -34,6 +34,6 @@ For full details visit [fullstackopen.com](https://fullstackopen.com/)
   * [1.1: Course Information, step 1](/part_1/1a_intro_to_react/1.1-course_info_step1.md)
   * [1.2: Course Information, step 2](/part_1/1a_intro_to_react/1.2-course_info_step2.md)
 * #### 1b - JavaScript
-  * _COMING SOON_
+  * [1.3: Course Information, step 3](/part_1/1b_javascript/1.3-course_info_step3.md)
 
 ---

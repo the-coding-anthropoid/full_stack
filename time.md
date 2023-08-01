@@ -14,3 +14,13 @@
 | Reading b                                 | 00:20 | 00:20 |
 | Refactor                                  | 00:20 | 00:40 |
 | Ex 1.3                                    | 00:10 | 00:50 |
+
+
+---
+
+TODO:
+1. complete exercise in proj folder
+2. copy/paste .js
+3. create exercise .md
+4. update /part_1/README.md link
+5. update /README.md link
