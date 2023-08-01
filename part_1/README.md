@@ -25,4 +25,4 @@
 
 #### 1b - JavaScript
 
-_COMING SOON_
+* [1.3: Course Information, Step 3](./1b_javascript/1.3-course_info_step3.md)
