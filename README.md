@@ -31,10 +31,11 @@ For full details visit [fullstackopen.com](https://fullstackopen.com/)
     * [0.6: New Note in SPA Diagram](/part_0/0.6-new_note_in_spa_diagram.md)
 * ### [Part 1: Introduction to React](/part_1/README.md)
 * #### 1a - Introduction to React 
-  * [1.1: Course Information, step 1](/part_1/1a_intro_to_react/1.1-course_info_step1.md)
-  * [1.2: Course Information, step 2](/part_1/1a_intro_to_react/1.2-course_info_step2.md)
+  * [1.1: Course Information, Step 1](/part_1/1a_intro_to_react/1.1-course_info_step1.md)
+  * [1.2: Course Information, Step 2](/part_1/1a_intro_to_react/1.2-course_info_step2.md)
 * #### 1b - JavaScript
-  * [1.3: Course Information, step 3](/part_1/1b_javascript/1.3-course_info_step3.md)
-  * [1.4: Course Information, step 4](/part_1/1b_javascript/1.4-course_info_step4.md)
+  * [1.3: Course Information, Step 3](/part_1/1b_javascript/1.3-course_info_step3.md)
+  * [1.4: Course Information, Step 4](/part_1/1b_javascript/1.4-course_info_step4.md)
+  * [1.5: Course Information, Step 5](/part_1/1b_javascript/1.5-course_info_step5.md)
 
 ---
